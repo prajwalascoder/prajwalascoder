@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @prajwalascoder
-- 👀 I’m interested in tech stuff as well as sports
-- 🌱 I’m currently learning computer application
+- 👋 Hi, I’m @prajwal K M 
+- 👀 I’m interested in tech stuff & a little bit in Politics and sports.
+- 🌱 I’m currently pursuing MCA in PES University
 - 💞️ I’m looking to collaborate on development stuff
-- 📫 How to reach me prajwalkarthik01@gmail.com
+- 📫 How to reach me Mail:prajwalkarthik01@gmail.com/x:whozprajwal/intsagram:prajwalsocial
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Im not gay 
 
 <!---
 prajwalascoder/prajwalascoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
